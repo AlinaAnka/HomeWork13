@@ -1,8 +1,8 @@
 {
   "base": {
-    "project": "first project",
-    "environment": "Jenkins",
-    "comment": "HomeWork13",
+    "project": "some project",
+    "environment": "some env",
+    "comment": "some comment",
     "reportLink": "",
     "language": "en",
     "allureFolder": "allure-report",
